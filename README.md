@@ -1,1 +1,1 @@
-"# pixstock.service.infra" 
+# Pixstock.Service.Infra
